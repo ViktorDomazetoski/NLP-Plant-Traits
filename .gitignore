@@ -2,6 +2,7 @@
 *.csv
 *.pkl
 *.docx
+*.pdf
 *.RData
 *.dbf
 *.prj
